@@ -6,3 +6,7 @@ concept of optimization in computer graphics.
 
 This project’s goal is to create a small fractal exploration program. Start by seeing what
 a fractal is.
+
+![](https://github.com/DZborovsk/backup/blob/master/img/fractals1.png)
+
+![](https://github.com/DZborovsk/backup/blob/master/img/fractals2.png)
